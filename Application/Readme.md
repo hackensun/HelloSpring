@@ -7,7 +7,7 @@
 
 Sample Java Spring Boot web application that you can use to deploy on Azure.
 
-This is push test
+This is push test for s1
 
 
 ## License:
